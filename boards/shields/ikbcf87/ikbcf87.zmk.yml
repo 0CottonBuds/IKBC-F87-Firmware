@@ -1,0 +1,9 @@
+file_format: "1"
+id: ikbcf87
+name: Cotton-IKBCF87
+type: shield
+url: https://github.com/0CottonBuds/IKBC-F87-Firmware
+requires:
+    - makerdiary_nrf52840_m2
+features:
+    - keys
