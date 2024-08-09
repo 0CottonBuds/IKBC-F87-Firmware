@@ -48,8 +48,8 @@
 
     default_transform: matrix_transform{
         compatible = "zmk,matrix-transform";
-        rows = <6>
-        cols = <15>
+        rows = <6>;
+        cols = <15>;
 
         map = <
             RC(0,0)    RC(0,1) RC(0,2) RC(0,3) RC(0,4)     RC(0,5) RC(0,6) RC(0,7) RC(0,8)      RC(0,9) RC(0,10) RC(0,11) RC(0,12)      RC(0,13) RC(0,14) RC(3,14) 
@@ -59,5 +59,5 @@
             RC(4,0)    RC(4,1) RC(4,2) RC(4,3) RC(4,4) RC(4,5) RC(4,6) RC(4,7) RC(4,8) RC(4,9) RC(4,10)           RC(4,11)                      RC(4,12)  
             RC(5,0) RC(5,1) RC(5,2)                 RC(5,3)             RC(5,4) RC(5,5) RC(5,6) RC(5,7)                                 RC(5,8) RC(5,9) RC(5,10)  // TODO arrow key lanes can be positioned better cols 
         >
-    }
+    };
 }
