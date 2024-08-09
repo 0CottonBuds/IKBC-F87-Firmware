@@ -1,0 +1,6 @@
+if SHIELD_IKBCF87
+
+config ZMK_KEYBOARD_NAME
+    default "Cotton IKBCF87"
+
+endif
