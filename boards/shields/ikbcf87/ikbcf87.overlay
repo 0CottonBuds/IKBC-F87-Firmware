@@ -39,7 +39,7 @@
             , <&gpio0 31 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>;
     }
 
-    default_layout: default_layout {
+    default_layout: physical_layout {
         compatible = "zmk,physical-layout";
         display-name = "Default Layout";
         transform = <&default_transform>;
