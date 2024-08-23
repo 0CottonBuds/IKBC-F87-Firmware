@@ -30,9 +30,9 @@
         fn_layer {
             bindings = <
                 &trans       &trans  &trans  &trans  &trans     &trans  &trans  &trans  &trans        &trans   &trans    &trans  &trans                  &trans    &trans   &trans
-                &trans  &bt BT_DISC &bt BT_DISC  &bt BT_DISC  &bt BT_DISC  &bt BT_DISC  &trans  &trans  &trans   &trans   &trans    &trans  &trans  &trans                       &trans    &trans    &trans 
+                &trans  &trans  &trans  &tras  &trans &trans &trans  &trans  &trans   &trans   &trans    &trans  &trans  &trans                       &trans    &trans    &trans 
                 &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans      &trans    &trans     &trans  &trans   &trans         &trans    &trans   &trans 
-                &trans    &bt BT_DISC   &bt BT_PRV   &bt BT_NXT   &bt BT_CLR_ALL   &trans   &trans   &trans   &trans      &trans    &trans  &trans            &trans 
+                &trans    &trans &bt BT_PRV   &bt BT_NXT   &bt BT_CLR_ALL   &trans   &trans   &trans   &trans      &trans    &trans  &trans            &trans 
                 &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans  &trans  &trans          &trans                                    &trans 
                 &trans  &trans  &trans                &trans               &trans  &trans  &trans   &trans                                               &trans   &trans   &trans
             >;
