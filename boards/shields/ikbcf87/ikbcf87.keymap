@@ -32,7 +32,7 @@
                 &trans       &trans  &trans  &trans  &trans     &trans  &trans  &trans  &trans        &trans   &trans    &trans  &trans                  &trans    &trans   &trans
                 &trans  &trans  &trans  &trans  &trans &trans &trans  &trans  &trans   &trans   &trans    &trans  &trans  &trans                       &trans    &trans    &trans 
                 &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans      &trans    &trans     &trans  &trans   &trans         &trans    &trans   &trans 
-                &trans    &bt BT_DISC &bt BT_PRV   &bt BT_NXT   &bt BT_CLR_ALL   &trans   &trans   &trans   &trans      &trans    &trans  &trans            &trans 
+                &trans    &bt BT_DISC 0 &bt BT_PRV   &bt BT_NXT   &bt BT_CLR_ALL   &trans   &trans   &trans   &trans      &trans    &trans  &trans            &trans 
                 &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans  &trans  &trans          &trans                                    &trans 
                 &trans  &trans  &trans                &trans               &trans  &trans  &trans   &trans                                               &trans   &trans   &trans
             >;
