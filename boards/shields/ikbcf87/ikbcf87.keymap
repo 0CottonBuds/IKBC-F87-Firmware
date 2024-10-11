@@ -45,9 +45,9 @@
                 &soft_off       &none  &none  &none  &none     &none  &none  &none  &none        &none   &none    &none  &none                  &none    &none   &sys_reset
                 &none  &none    &none    &none  &none  &none   &none  &none  &none   &none   &none    &none  &none  &none                       &none     &none     &none 
                 &none   &none   &none   &none   &none   &none   &none   &none   &mkp MB4      &mkp MB5    &none     &none  &none   &none         &none    &none   &none 
-                &none    &none &none   &mkp RCLK    &none    &none   &mmv MOVE_LEFT   &mmv MOVE_DOWN   &mmv MOVE_UP      &mmv MOVE_RIGHT    &none  &none            &none 
-                &none   &none   &none   &none   &mkp LCLK   &none   &none   &msc MOVE_DOWN   &msc MOVE_UP  &none  &none          &none                                    &none 
-                &none  &none  &none                &mkp LCLK               &none  &none  &none   &none                                               &none   &none    &none
+                &none    &none &mkp MCLK   &mkp RCLK    &none    &none   &mmv MOVE_LEFT   &mmv MOVE_DOWN   &mmv MOVE_UP      &mmv MOVE_RIGHT    &none  &none            &none 
+                &kp LSHFT   &none   &none   &none   &mkp LCLK   &none   &none   &kp DOWN_ARROW   &msc UP_ARROW  &none  &none          &none                                    &none 
+                &kp LCTRL  &none  &kp LALT                &mkp LCLK               &none  &none  &none   &none                                               &none   &none    &none
             >;
         };
     };
